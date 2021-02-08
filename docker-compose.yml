@@ -10,3 +10,19 @@ services:
     container_name: target01
     build: target
     tty: true
+  target02:
+    container_name: target01
+    build: target
+    tty: true
+  target03:
+    container_name: target01
+    build: target
+    tty: true
+  target04:
+    container_name: target01
+    build: target
+    tty: true
+  target05:
+    container_name: target01
+    build: target
+    tty: true

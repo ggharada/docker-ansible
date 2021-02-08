@@ -11,18 +11,18 @@ services:
     build: target
     tty: true
   target02:
-    container_name: target01
+    container_name: target02
     build: target
     tty: true
   target03:
-    container_name: target01
+    container_name: target03
     build: target
     tty: true
   target04:
-    container_name: target01
+    container_name: target04
     build: target
     tty: true
   target05:
-    container_name: target01
+    container_name: target05
     build: target
     tty: true
